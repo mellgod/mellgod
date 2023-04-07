@@ -1,7 +1,8 @@
 ### I'm develooper from Poland. 👨‍💻
 
-[![C](https://img.shields.io/badge/-c-090909?style=for-the-badge&logo=c)](https://github.com/justiceeecode)
-[![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python3)](https://github.com/justiceeecode)
+[![Go](https://img.shields.io/badge/-go-090909?style=for-the-badge&logo=go)](https://github.com/justiceeecode)
+[![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)](https://github.com/justiceeecode)
+[![JavaScript](https://img.shields.io/badge/-javascript-090909?style=for-the-badge&logo=javascript)](https://github.com/justiceeecode)
 [![Java](https://img.shields.io/badge/-java-090909?style=for-the-badge&logo=java)](https://github.com/justiceeecode)
 
 ### Links:
