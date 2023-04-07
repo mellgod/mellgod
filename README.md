@@ -1,4 +1,4 @@
-### I'm develooper from Ukraine. 👨‍💻
+### I'm develooper from Poland. 👨‍💻
 
 [![C](https://img.shields.io/badge/-c-090909?style=for-the-badge&logo=c)](https://github.com/justiceeecode)
 [![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python3)](https://github.com/justiceeecode)
@@ -6,15 +6,14 @@
 
 ### Links:
 
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/litermt9)
-[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/justice_code)
+[![telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/botnet_admin)
 
 ##
 
  <div>
-  <a href="https://github.com/justiceeecode">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=justiceeecode&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justiceeecode&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/mellgod">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mellgod&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellgod&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ##
